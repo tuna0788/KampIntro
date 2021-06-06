@@ -11,7 +11,7 @@ namespace Metotlar
             Console.WriteLine("Ürün Adı : "+product.Adi);
             Console.WriteLine("Ürün Fİyatı : "+product.Price);
             Console.WriteLine("Ürün Açıklaması : "+product.Aciklama);
-            Console.WriteLine("Stok Adeti : "+product.StokAdeti);
+            Console.WriteLine("Stok Durumu : "+product.StokAdeti);
             Console.WriteLine("************************");
         }
     }
